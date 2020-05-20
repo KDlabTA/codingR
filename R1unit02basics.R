@@ -9,7 +9,6 @@ require(graphics)
 # Details ... require is designed for use inside other functions;
 # it returns FALSE and gives a warning if the package does not exist
 # (rather than an error as library() does by default).
-??library
 # library(swirlx)
 #
 require(swirlx) # Warning!
