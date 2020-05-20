@@ -5,6 +5,7 @@ rm(list=ls())
 # ------------------< 1. basics >-------------------------------
 library(base)
 # This is a test
+# This is 2nd test
 #
 require(graphics)
 ?require
